@@ -1,6 +1,6 @@
 {
   "name": "node-buzz",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "description": "An npm-installable version of the buzz HTML 5 audio library",
   "main": "buzz.js",
   "scripts": {
